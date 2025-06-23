@@ -15,7 +15,7 @@ A responsive React-based job search app that fetches real-time job listings usin
 - Netlify (for hosting)
 
 ## 🌐 Live Demo
-👉 [Visit Job Finder App](https://animated-truffle-7d09d5.netlify.app/)
+👉 [Visit Job Finder App](https://job-finder-vaish.netlify.app/)
 
 ## 📁 Setup Locally
 ```bash
